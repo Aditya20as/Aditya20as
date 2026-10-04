@@ -2,7 +2,7 @@
 <!-- ====================== HEADER ====================== -->
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aditya20as/Aditya20as/main/assets/banner.png" width="100%" alt="Aditya Sharma - CS Student | Aspiring AI & Cloud Engineer"/>
+<img src="https://raw.githubusercontent.com/Aditya20as/Aditya20as/main/assets/banner.png" width="100%"/>
 
 <a href="https://github.com/Aditya20as">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&height=50&lines=Building+AI-powered+systems+that+solve+real+problems;Turning+ideas+into+intelligent+agents+on+the+cloud" alt="Typing SVG" />
